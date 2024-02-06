@@ -4,12 +4,12 @@
 }
 
 body{
-    background-color:black
+    background-color: #171717;
 }
 
 .cabeçalho {
     display: flex;
-    background-color: #171717;
+    background-color: black;
     justify-content: space-around;
     padding: 24px 0;
 }
