@@ -1,3 +1,8 @@
+{
+    margin: 0;
+    padding: 0;
+}
+
 .cabeçalho {
     display: flex;
     background-color: black;
@@ -20,6 +25,6 @@
     color: white;
 }
 
-.fundo-principal{
-    background-color: darkgrey;
+body{
+    background-image: linear-gradient();
 }
