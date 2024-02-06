@@ -12,3 +12,10 @@
 .cabeçalho-título {
     color: white;
 }
+
+.cabeçalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+    color: white;
+}
